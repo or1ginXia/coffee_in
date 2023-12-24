@@ -1,0 +1,14 @@
+#box3{
+    margin-top:30px;
+    display: flex;
+    font-family: "Itim", cursive !important;
+}
+
+.icon{
+    font-size: 30px;
+}
+
+.ver_box{
+    text-align: center;
+    flex: 1;
+}

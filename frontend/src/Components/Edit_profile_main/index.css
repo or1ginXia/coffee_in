@@ -1,0 +1,51 @@
+#edit_box{
+    margin-top: 20px;
+    text-align: center;
+    height: 1000px;
+    font-family: "Itim", cursive !important;
+}
+
+#edit_box2{
+    text-align: left;
+}
+
+
+.edit_label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 16px;
+    height: 24px;
+}
+
+.edit_input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#avatar_1{
+    display: none;
+}
+#edit_avatar{
+    width: 103px;
+    height: 103px;
+    margin-left: 130px;
+}
+
+
+.edit_submit {
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.like_input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border:2px black solid;
+}

@@ -1,0 +1,319 @@
+{
+  "users": [
+    {"userid": "ztian", "password": "c2023", "address": "New York"},
+    {"userid": "hwang", "password": "c2023", "address": "London"},
+    {"userid": "qxia", "password": "c2023", "address": "California"},
+    {"userid": "psong", "password": "c2023", "address": "California"},
+    {"userid": "asmith", "password": "c2023", "address": "California"},
+    {"userid": "mkenneth", "password": "c2023", "address": "San Francisco"}
+  ],
+"posts":[
+  {
+    "postid": "a1",
+    "post_title": "Espresso Supreme",
+    "location": "Joe Coffee",
+    "Bitterness": 3,
+    "Acidity": 1,
+    "Origin": "Colombia",
+    "Roast": "Light roast",
+    "Brewing": "Espresso Machine",
+    "Details": "It's a concentrated and strong coffee with a layer of crema on top.",
+    "picture": "https://www.dailygrind.com/wp-content/uploads/2018/11/espresso-1.jpg"
+  },
+  {
+    "postid": "a2",
+    "post_title": "Matcha Madness",
+    "location": "Starbucks",
+    "Bitterness": 4,
+    "Acidity": 3,
+    "Origin": "Kyoto",
+    "Roast": "not applicable",
+    "Brewing": "Pour-Over",
+    "Details": "A unique blend that combines the earthy notes of matcha green tea with the invigorating kick of coffee. It's a vibrant fusion of two worlds, offering a refreshing and energizing cup.",
+    "picture": "https://cdn.vox-cdn.com/thumbor/68-_ZBfOXzgQxSVCxYVeq7HqI74=/0x41:800x491/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/46335946/_MG_0202.0.0.0.jpg"
+  },
+  {
+    "postid": "a3",
+    "post_title": "Caramel Delight",
+    "location": "Gail's Bakery",
+    "Bitterness": 1,
+    "Acidity": 4,
+    "Origin": "Vietnam",
+    "Roast": "dark roast",
+    "Brewing": "Cold Brew",
+    "Details": "Indulge in the sweet embrace of caramel-infused coffee. This blend marries the rich, buttery notes of caramel with the boldness of coffee for a harmonious and satisfying treat.",
+    "picture": "https://houseandhome.com/wp-content/uploads/2011/10/drinks-caramelappledelight-BlueDiamond.jpg"
+  },
+  {
+    "postid": "a4",
+    "post_title": "Hazelnut Heaven",
+    "location": "Costa",
+    "Bitterness": 0,
+    "Acidity": 0,
+    "Origin": "Ethiopia",
+    "Roast": "medium roast",
+    "Brewing": "Drip Coffee Maker",
+    "Details": "Experience a slice of coffee heaven with the warm, nutty essence of hazelnut. It's a comforting and aromatic brew that envelops you in its delightful hazelnut embrace.",
+    "picture": "https://www.havocinthekitchen.com/wp-content/uploads/2022/04/Chocolate-Hazelnut-Cream-Liquor-3-1.jpg"
+  },
+  {
+    "postid": "a5",
+    "post_title": "Vanilla Velvet",
+    "location": "Blue bottle",
+    "Bitterness": 3,
+    "Acidity": 2,
+    "Origin": "Brazil",
+    "Roast": "light roast",
+    "Brewing": "Espresso Machine",
+    "Details": "Smooth and luxurious, this coffee is like a velvet-textured hug. The gentle sweetness of vanilla enhances the coffee's natural flavors, resulting in a soothing and elegant cup.",
+    "picture": "https://www.pjscoffee.com/uploads/vanilla-velvet-ice-black.jpg"
+  },
+  {
+    "postid": "a6",
+    "post_title": "Irish Cream Dream",
+    "location": "Joe Coffee",
+    "Bitterness": 2,
+    "Acidity": 1,
+    "Origin": "Kenya",
+    "Roast": "dark roast",
+    "Brewing": "Espresso Machine",
+    "Details": "Transport yourself to the cozy pubs of Ireland with this dreamy blend. The Irish cream infusion adds creamy richness and a hint of liquor for a delightful and comforting experience.",
+    "picture": "https://www.manusmenu.com/wp-content/uploads/2014/12/1-Sweet-Dream-1-1-of-1.jpg"
+  },
+  {
+    "postid": "a7",
+    "post_title": "Cinnamon Swirl",
+    "location": "Starbucks",
+    "Bitterness": 1,
+    "Acidity": 2,
+    "Origin": "Costa Rica",
+    "Roast": "medium roast",
+    "Brewing": "Espresso Machine",
+    "Details": "A comforting embrace of cinnamon-spiced coffee. It's like a warm, cozy blanket on a chilly morning, with the sweet and aromatic essence of cinnamon swirling through each sip.",
+    "picture": "https://thissillygirlskitchen.com/wp-content/uploads/2022/11/Cinnamon-Roll-Cocktail-30.jpg"
+  },
+  {
+    "postid": "a8",
+    "post_title": "Dark Roast Rapture",
+    "location": "Gail's Bakery",
+    "Bitterness": 2,
+    "Acidity": 1,
+    "Origin": "Guatemala",
+    "Roast": "light roast",
+    "Brewing": "Moka Pot",
+    "Details": "Dive into the depths of coffee's bold and intense flavors. This dark roast brew is a rapturous experience for those who savor the strong, smoky, and robust character of coffee.",
+    "picture": "https://brulosophy.com/wp-content/uploads/2021/04/15_BIYCoconutCoffeeStout_inglass.jpeg"
+  },
+  {
+    "postid": "a9",
+    "post_title": "Breakfast Blend Bliss",
+    "location": "Costa",
+    "Bitterness": 3,
+    "Acidity": 2,
+    "Origin": "Mexico",
+    "Roast": "dark roast",
+    "Brewing": "AeroPress",
+    "Details": "Start your day with pure bliss in a cup. This balanced and bright breakfast blend is the perfect companion to your morning routine, offering a refreshing and uplifting start.",
+    "picture": "https://cdn.gardengrocer.com/attachments/photos/big/1614.png?4374"
+  },
+  {
+    "postid": "a10",
+    "post_title": "Colombian Elegance",
+    "location": "Joe Coffee",
+    "Bitterness": 2,
+    "Acidity": 1,
+    "Origin": "Colombia",
+    "Roast": "medium roast",
+    "Brewing": "Moka Pot",
+    "Details": "Experience the refined elegance of Colombian coffee. With its well-balanced flavors and smooth body, this brew is a true testament to the artistry of Colombian coffee growers.",
+    "picture": "https://media-cdn.tripadvisor.com/media/photo-s/02/ec/27/aa/majestic-elegance-punta.jpg"
+  },
+  {
+    "postid": "a11",
+    "post_title": "Ethiopian Sunrise",
+    "location": "Starbucks",
+    "Bitterness": 1,
+    "Acidity": 0,
+    "Origin": "Ethiopia",
+    "Roast": "light roast",
+    "Brewing": "Cold Brew",
+    "Details": "Greet the day with the vibrant flavors of Ethiopian coffee. Known for its bright acidity and fruity notes, this coffee captures the essence of a sunrise in the Ethiopian highlands.",
+    "picture": "https://www.thespeckledpalate.com/wp-content/uploads/2015/09/22-2808-post/TheSpeckledPalate_NationalCoffeeDay_AfricanSunrise_004_small.jpg"
+  },
+  {
+    "postid": "a12",
+    "post_title": "French Roast Fantasy",
+    "location": "Gail's Bakery",
+    "Bitterness": 3,
+    "Acidity": 1,
+    "Origin": "Brazil",
+    "Roast": "light roast",
+    "Brewing": "Pour-Over",
+    "Details": "Embark on a journey to the heart of France with this fantasy in a cup. The dark and smoky French roast offers a captivating and intense coffee experience.",
+    "picture": "https://storiarts.com/cdn/shop/products/Fantasy-_crop.jpg?v=1621636169"
+  },
+  {
+    "postid": "a13",
+    "post_title": "Sumatra Serenity",
+    "location": "Costa",
+    "Bitterness": 1,
+    "Acidity": 2,
+    "Origin": "China",
+    "Roast": "medium roast",
+    "Brewing": "Pour-Over",
+    "Details": "Find serenity in the depths of Sumatran coffee. This brew offers a rich, earthy, and full-bodied flavor profile, taking you on a tranquil journey to the lush jungles of Sumatra.",
+    "picture": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=3079243-847&recipeName=680"
+  }
+],
+"user_profile": [
+  {
+    "userid": "ztian",
+    "like_ct": 123,
+    "comment_ct": 43,
+    "collect_ct": 123,
+    "post_ct": 2,
+    "follower_ct": 23,
+    "followee_ct": 14
+  },
+  {
+    "userid": "hwang",
+    "like_ct": 23,
+    "comment_ct": 1232,
+    "collect_ct": 23,
+    "post_ct": 34,
+    "follower_ct": 50,
+    "followee_ct": 34
+  },
+  {
+    "userid": "qxia",
+    "like_ct": 2434,
+    "comment_ct": 145,
+    "collect_ct": 2434,
+    "post_ct": 5,
+    "follower_ct": 34,
+    "followee_ct": 44
+  },
+  {
+    "userid": "psong",
+    "like_ct": 432,
+    "comment_ct": 1243,
+    "collect_ct": 432,
+    "post_ct": 23,
+    "follower_ct": 2344,
+    "followee_ct": 142
+  },
+  {
+    "userid": "asmith",
+    "like_ct": 65,
+    "comment_ct": 154,
+    "collect_ct": 65,
+    "post_ct": 45,
+    "follower_ct": 454,
+    "followee_ct": 4214
+  },
+  {
+    "userid": "mkenneth",
+    "like_ct": 1,
+    "comment_ct": 67,
+    "collect_ct": 1,
+    "post_ct": 1,
+    "follower_ct": 1,
+    "followee_ct": 12
+  }
+],
+"relationships": [
+  {"follower": "ztian", "followee": "hwang"},
+  {"follower": "ztian", "followee": "qxia"},
+  {"follower": "ztian", "followee": "psong"},
+  {"follower": "ztian", "followee": "asmith"},
+  {"follower": "ztian", "followee": "mkenneth"},
+  {"follower": "mkenneth", "followee": "ztian"},
+  {"follower": "mkenneth", "followee": "hwang"},
+  {"follower": "mkenneth", "followee": "qxia"},
+  {"follower": "asmith", "followee": "ztian"},
+  {"follower": "qxia", "followee": "ztian"},
+  {"follower": "qxia", "followee": "psong"},
+  {"follower": "qxia", "followee": "hwang"},
+  {"follower": "psong", "followee": "qxia"},
+  {"follower": "hwang", "followee": "qxia"},
+  {"follower": "hwang", "followee": "psong"},
+  {"follower": "hwang", "followee": "asmith"},
+  {"follower": "hwang", "followee": "ztian"}
+],
+"post_likes": [
+  {
+    "postid": "a1",
+    "liked_users": ["ztian", "hwang", "qxia", "psong", "asmith", "mkenneth"]
+  },
+  {
+    "postid": "a2",
+    "liked_users": ["ztian", "hwang", "qxia", "psong"]
+  },
+  {
+    "postid": "a3",
+    "liked_users": ["asmith", "mkenneth"]
+  },
+  {
+    "postid": "a4",
+    "liked_users": ["ztian", "hwang", "qxia", "psong", "asmith", "mkenneth"]
+  }
+],
+"post_comments": [
+  {
+    "postid": "a1",
+    "comments": [
+      {"user": "ztian", "comment": "This is so great"},
+      {"user": "hwang", "comment": "this is a paid ad"},
+      {"user": "qxia", "comment": "I tried it today too it's awesome"},
+      {"user": "psong", "comment": "location please?"},
+      {"user": "asmith", "comment": "this is too sweet for me"},
+      {"user": "mkenneth", "comment": "how much is it?"}
+    ]
+  },
+  {
+    "postid": "a2",
+    "comments": [
+      {"user": "ztian", "comment": "wow this is amazing"},
+      {"user": "hwang", "comment": "I can't imagine this flavor"},
+      {"user": "qxia", "comment": "same"},
+      {"user": "psong", "comment": "it is hard to describe"}
+    ]
+  },
+  {
+    "postid": "a3",
+    "comments": [
+      {"user": "asmith", "comment": "one sip makes you in heaven"},
+      {"user": "mkenneth", "comment": "their bakery is also good"}
+    ]
+  },
+  {
+    "postid": "a4",
+    "comments": [
+      {"user": "ztian", "comment": "the vibe is unbeatable"},
+      {"user": "hwang", "comment": "it is too far from me"},
+      {"user": "qxia", "comment": "I love ths taste!"},
+      {"user": "psong", "comment": "the barista is very friendly"},
+      {"user": "asmith", "comment": "thanks for recommending!"},
+      {"user": "mkenneth", "comment": "wwww"}
+    ]
+  }
+],
+"post_collections": [
+  {
+    "postid": "a1",
+    "collected_users": ["ztian", "hwang", "qxia", "psong", "asmith", "mkenneth"]
+  },
+  {
+    "postid": "a2",
+    "collected_users": ["ztian", "hwang", "qxia", "psong"]
+  },
+  {
+    "postid": "a3",
+    "collected_users": ["asmith", "mkenneth"]
+  },
+  {
+    "postid": "a4",
+    "collected_users": ["ztian", "hwang", "qxia", "psong", "asmith", "mkenneth"]
+  }
+]
+}
